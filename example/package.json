@@ -9,7 +9,7 @@
   "dependencies": {
     "react": "16.7.0",
     "react-native": "0.57.8",
-    "react-native-media-controls": "file:../lib",
+    "react-native-media-controls": "file:..",
     "react-native-video": "^4.2.0"
   },
   "devDependencies": {
